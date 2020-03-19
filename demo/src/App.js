@@ -7,6 +7,7 @@ function App() {
       <p>路藤甲login</p>
       <p>login</p>
       <p>路人乙注册</p>
+      <h2>haha</h2>
     </div>
   );
 }
