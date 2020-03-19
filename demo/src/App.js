@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -7,6 +6,7 @@ function App() {
     <div className="App">
       <p>路藤甲login</p>
       <p>login</p>
+      <p>路人乙注册</p>
     </div>
   );
 }
